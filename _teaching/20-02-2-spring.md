@@ -9,4 +9,4 @@ excerpt: "<i>Undergraduate course, Teaching assistant</i><br/>
 IT3190 is a course that provides the standard knowledge of Machine Learning and Data Mining."
 ---
 
-IT3190 is a course that provides the standard knowledge of Machine Learning and Data Mining. The content includes classical supervised unsupervised learning algorithms such as linear regression, KNN, SVM, random forest, K-means, PCA. Besides, some timely research is also updated such as advances in deep learning, generative modeling.
+IT3190 is a course that provides the standard knowledge of Machine Learning and Data Mining. The content contains classical supervised and unsupervised learning algorithms including linear regression, KNN, SVM, ensemble methods, K-means, dimension reduction, and so on. Besides, some timely research is also updated such as advances in deep learning, generative modeling.
