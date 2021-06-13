@@ -11,9 +11,9 @@ title                    : "Son Van Nguyen"
 title_separator          : "-"
 name                     : &name "Son Van Nguyen"
 # description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : https://sonnv77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sonpeter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sonnv77/sonnv77.github.io"
+repository               : "sonpeter/sonpeter.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "sonpeter0707"
+  username               : &twitter "sonnv0707"
 facebook:
   username               : 
   app_id                 :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "sonnv77"
+  github           : "sonpeter77"
   google_plus      :
   keybase          :
   instagram        : 
@@ -313,3 +313,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-time-machine
