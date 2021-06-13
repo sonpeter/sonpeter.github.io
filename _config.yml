@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Son Van Nguyen"
+title                    : "Khai Ba Nguyen"
 title_separator          : "-"
-name                     : &name "Son Van Nguyen"
-# description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : https://sonnv77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Khai Ba Nguyen"
+description              : &description "AI Research Resident at VinAI Research"
+url                      : https://khainb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sonnv77/sonnv77.github.io"
+repository               : "khainb/khainb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -49,14 +49,14 @@ read_more                : "enabled" # if enabled, adds a "read more" link to ex
 future                   : true
 
 # SEO Related
-# google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "sonpeter0707"
+  username               : &twitter "vn_khainb"
 facebook:
   username               : 
   app_id                 :
@@ -78,32 +78,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Son Van Nguyen"
-  avatar           : "profile_2.jpg"
+  name             : "Khai Ba Nguyen"
+  avatar           : "Khai.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "AI Research Resident at <a style='color: black;' href='https://www.vinai.io/'>VinAI Research, Viet Nam</a>"
-  location         : "Ha Noi, Viet Nam"
+  bio              : "AI Research Resident at <a style='color: black;' href='https://www.vinai.io/'>VinAI Research, Vietnam</a>"
+  location         : "Hanoi, Vietnam"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=FYyT8AQAAAAJ&hl=en"
-  email            : 
+  googlescholar    : "https://scholar.google.com/citations?user=im5fNaQAAAAJ&hl=en"
+  email            : "khainb@utexas.edu"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "NguyenBaKhai97"
   foursquare       :
-  github           : "sonnv77"
+  github           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-#   orcid            : "http://orcid.org/0000-0001-7215-0532"
+  linkedin         : "khai-nguyen-307895155"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : *twitter
@@ -111,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-#   wikipedia        : "staeiou"
+  wikipedia        :
 
 
 # Reading Files
@@ -138,7 +136,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
-  - LICENSE
+  - LIC ENSE
   - log
   - node_modules
   - package.json
