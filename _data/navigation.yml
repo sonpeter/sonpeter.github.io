@@ -8,12 +8,12 @@ main:
     
 #   - title: "Expressions"
 #     url: /expressions/
-
-  - title: "Teaching"
-    url: /teaching/
         
   - title: "Blog Posts"
     url: /posts/
+    
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "CV"
     url: /cv/
