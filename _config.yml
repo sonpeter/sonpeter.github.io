@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Son Van Nguyen"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Homepage"
+name                     : &name "Son Van Nguyen"
 # description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : https://sonpeter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
