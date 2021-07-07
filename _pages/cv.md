@@ -9,7 +9,5 @@ redirect_from:
 
 
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
-
 
 My CV is available [here](https://sonpeter.github.io/SonNguyen_CV.pdf)
