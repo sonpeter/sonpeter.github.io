@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available [here](https://sonpeter.github.io/SonNguyen_CV.pdf)
+My CV is available [here](https://sonpeter.github.io/SonNguyen_CV.pdf).
