@@ -20,4 +20,4 @@ My central research has been motivated by developing impactful and interpretable
 Beside research, I am also interested in computer science algorithms and mathematics (especially Number Theory). When I was a high school and undergraduate student, I participated in several competitions in mathematics. I was fortunate enough to get good results in those contests.
 
 ## News
-- **[Oct 2021]** Our paper "Structured Dropout Variational Inference for Bayesian Neural Networks" accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021/Schedule?type=Poster).
+- **[Oct 2021]** Our paper "Structured Dropout Variational Inference for Bayesian Neural Networks" is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021/Schedule?type=Poster).
