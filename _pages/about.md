@@ -15,7 +15,7 @@ I am currently a second-year Research Resident at [VinAI Research](https://www.v
 My CV is available [here](https://sonpeter.github.io/SonNguyen_CV.pdf).
 
 ## Research interests
-My central research has been motivated by developing impactful and interpretable algorithms for machine learning models, with a current focus on methods at the intersection of probabilistic modeling and deep learning. I am particularly excited about efficient and scalable probabilistic inference methods applied in complex settings with computational bottleneck such as Bayesian deep learning, hierarchical Bayesian models, large-scale online/continual learning. I am also interested in principled deep learning techniques including optimization, generalization, representation, generative modeling, and so on.
+My central research has been motivated by developing impactful and interpretable algorithms for machine learning models, with a current focus on methods at the intersection of probabilistic modeling and deep learning. I am particularly excited about efficient and scalable probabilistic inference methods applied in complex settings with computational bottleneck such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, large-scale online/continual learning. I am also interested in principled deep learning techniques including optimization, generalization, representation, generative modeling, and so on.
 
 Beside research, I am also interested in computer science algorithms and mathematical omlypiad (especially Number Theory). When I was a high school and undergraduate student, I participated in several competitions in mathematics. I was fortunate enough to get good results in those contests.
 
