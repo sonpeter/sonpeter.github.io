@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a second-year Research Resident at [VinAI Research](https://www.vinai.io/) where I am fortunate to be mentored by Ass. Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before joining VinAI, I was a Research Assistant at [Data Science Lab](http://ds.soict.hust.edu.vn/) under the supervision of Professor [Khoat Than](https://scholar.google.com.vn/citations?hl=en&user=z2_6ZRYAAAAJ). I graduated from the honors program at [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with a Computer Science Bachelor’s degree.
 
-My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf).
+<!-- My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf). -->
 
 ## Research interests
 My central research has been motivated by developing impactful, interpretable, and reliable algorithms for machine learning models. Currently, my research focuses on methods at the intersection of probabilistic modeling and deep learning, from which I aim to combine the complementary advantages of these two fields into modeling, inference, and learning. I am particularly excited about efficient and scalable probabilistic inference methods applied in complex settings of several domains such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, and large-scale online/continual learning. I am also interested in principled deep learning techniques including optimization, generalization, representation, generative modeling, and so on.
