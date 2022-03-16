@@ -2,7 +2,7 @@
 title: "Adaptive Infinite Dropout for Noisy and Sparse Data Streams"
 category: articles
 permalink: "/articles/21-01-21-AIDROPOUT/"
-venue: "Machine Learning journal"
+venue: "Machine Learning"
 date: 10-03-2022
 link: 
 ---
