@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a second-year Research Resident at [VinAI Research](https://www.vinai.io/). Before joining VinAI, I was a Research Assistant at [Data Science Lab](http://ds.soict.hust.edu.vn/) under the supervision of Professor [Khoat Than](https://users.soict.hust.edu.vn/khoattq/). I graduated from the honors program at [Hanoi University of Science and Technology](https://soict.hust.edu.vn/) with a Computer Science Bachelor’s degree.
+I am currently a second-year Research Resident at [VinAI Research](https://www.vinai.io/). Before joining VinAI, I was a Research Assistant at [Data Science Lab](http://ds.soict.hust.edu.vn/) under the supervision of Professor [Khoat Than](https://users.soict.hust.edu.vn/khoattq/). I graduated from the honors program at Hanoi University of Science and Technology with a Computer Science Bachelor’s degree.
 
 My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf).
 
