@@ -17,7 +17,6 @@ My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf).
 ## Research interests
 My central research has been motivated by developing impactful, interpretable, and reliable algorithms for machine learning models. Currently, my research focuses on methods at the intersection of probabilistic modeling and deep learning, from which I aim to combine the complementary advantages of these two fields into modeling, inference, and learning. I am particularly excited about efficient and scalable probabilistic inference methods applied in complex settings of several domains such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, and large-scale online/continual learning. I am also interested in principled deep learning techniques including optimization, generalization, representation, generative modeling, and so on.
 
-Beside research, I am also interested in computer science algorithms and mathematical omlypiad (especially Number Theory). When I was a high school and undergraduate student, I participated in several competitions in mathematics. I was fortunate enough to get good results in those contests.
 
 ## News
 - **[Mar 2022]** Our paper "Adaptive Infinite Dropout for Noisy and Sparse Data Streams" is accepted to Machine Learning journal.
