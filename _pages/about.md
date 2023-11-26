@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am a first-year Ph.D. student at the Department of Computer Science, the University of Texas at Austin, where I am very fortunate to be advised by Professor Qiang Liu and Professor Nhat Ho. Before going to Austin, I was a Research Resident at [VinAI Research](https://www.vinai.io/) and was a Research Assistant at [Data Science Lab](http://ds.soict.hust.edu.vn/). I graduated from the honors program at Hanoi University of Science and Technology with a Computer Science Bachelor’s degree.
+Hi! I am a second-year Ph.D. student at the Department of Computer Science, the University of Texas at Austin, where I am very fortunate to be advised by Professor Qiang Liu and Professor Nhat Ho. Before going to Austin, I was a Research Resident at [VinAI Research](https://www.vinai.io/) and was a Research Assistant at [Data Science Lab](http://ds.soict.hust.edu.vn/). I graduated from the honors program at Hanoi University of Science and Technology with a Computer Science Bachelor’s degree.
 
 My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf).
 
