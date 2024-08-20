@@ -17,7 +17,7 @@ My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf).
 ## Research interests
 My research intersects probabilistic modeling, deep learning, and optimization, aiming to integrate the complementary advantages of these areas into foundation problems of modeling, inference, and learning.
 
-Currently, my work focuses on developing efficient and theoretically sound optimization algorithms for large-scale deep learning with non-conventional constraints. I am also particularly excited about scalable and robust probabilistic methods applied in complex settings of several domains, including Bayesian deep learning, deep generative models, hierarchical Bayesian models, and online/continual learning.
+Currently, my work focuses on developing efficient and theoretically sound optimization algorithms for large-scale deep learning with non-conventional constraints. I am also particularly excited about scalable and robust probabilistic methods applied to complex settings across diverse domains, including Bayesian deep learning, deep generative models, hierarchical Bayesian models, and online/continual learning.
 
 
 
