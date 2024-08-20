@@ -15,9 +15,11 @@ Hi! I am a Ph.D. student at the Department of Computer Science, the University o
 My CV is available [here](https://sonpeter.github.io/CV_SonNguyen.pdf).
 
 ## Research interests
-My research is primarily motivated by developing efficient, interpretable, and reliable algorithms for machine learning models. My works intersect probabilistic modeling, deep learning, and optimization, aiming to integrate the complementary advantages of these areas into foundation problems of modeling, inference, and learning.
+My research intersects probabilistic modeling, deep learning, and optimization, aiming to integrate the complementary advantages of these areas into foundation problems of modeling, inference, and learning.
 
-I am particularly excited about efficient and scalable probabilistic methods applied in large-scale settings of several domains such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, and  online/continual learning. I also have a broad interest in principled perspectives of deep learning including generalization, representation, uncertainty estimation, robustness, and so on.
+Currently, my work focuses on developing efficient and theoretically sound optimization algorithms for large-scale deep learning with non-conventional constraints.
+
+I am also particularly excited about efficient and scalable probabilistic methods applied in complex settings of several domains such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, and online/continual learning.
 
 
 
