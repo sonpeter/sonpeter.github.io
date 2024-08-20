@@ -2,7 +2,7 @@
 title: "Infinite Dropout for training Bayesian models from data streams"
 category: articles
 permalink: "/articles/19-12-09-IDROPOUT/"
-venue: "IEEE International Conference on Big Data (Big Data) 2019"
+venue: "IEEE International Conference on Big Data (Big Data)"
 date: 9-12-2019
 link: https://ieeexplore.ieee.org/document/9005544
 ---
