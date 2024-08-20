@@ -19,7 +19,7 @@ My research intersects probabilistic modeling, deep learning, and optimization, 
 
 Currently, my work focuses on developing efficient and theoretically sound optimization algorithms for large-scale deep learning with non-conventional constraints.
 
-I am also particularly excited about efficient and scalable probabilistic methods applied in complex settings of several domains such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, and online/continual learning.
+I am also particularly excited about scalable and robust probabilistic methods applied in complex settings of several domains such as Bayesian deep learning, deep generative models, hierarchical Bayesian models, and online/continual learning.
 
 
 
