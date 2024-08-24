@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Machine Learning and Data Mining (IT3190, Spring 2020)"
+title: "IT3190: Introduction to Machine Learning and Data Mining"
 collection: teaching
 teaching_type: "Undergraduate course"
 permalink: /teaching/20-02-02-spring/ 
