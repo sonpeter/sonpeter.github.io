@@ -2,6 +2,7 @@
 title: "Memory-Efficient Optimization with Factorized Hamiltonian Descent"
 category: articles
 permalink: "/articles/hfac/"
+venue: "International Conference on Artificial Intelligence and Statistics (AISTATS)"
 date: 24-06-2024
 link: https://arxiv.org/abs/2406.09958
 ---
