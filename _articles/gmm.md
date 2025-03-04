@@ -3,7 +3,7 @@ title: "Reducing Catastrophic Forgetting in Neural Networks via Gaussian Mixture
 category: articles
 permalink: "/articles/gmm/"
 venue: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)"
-date: 16-05-2020
+date: 16-05-2022
 link: https://dl.acm.org/doi/10.1007/978-3-031-05933-9_9
 ---
 
