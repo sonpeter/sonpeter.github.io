@@ -2,7 +2,7 @@
 title: "Improving Adaptive Moment Optimization via Preconditioner Diagonalization"
 category: articles
 permalink: "/articles/adadiag/"
-date: 01-10-2024
+date: 02-11-2025
 link: https://arxiv.org/abs/2502.07488
 ---
 <b>Son Nguyen</b>, Bo Liu, Lizhang Chen, Qiang Liu
