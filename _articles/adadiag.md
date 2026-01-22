@@ -2,6 +2,7 @@
 title: "Improving Adaptive Moment Optimization via Preconditioner Diagonalization"
 category: articles
 permalink: "/articles/adadiag/"
+venue: "International Conference on Artificial Intelligence and Statistics (AISTATS)"
 date: 11-02-2025
 link: https://arxiv.org/abs/2502.07488
 ---
